@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/source/DeathmatchAPI/.vs/DeathmatchAPI
+/source/DeathmatchAPI/bin
+/source/DeathmatchAPI/obj/Debug/net8.0
+/source/DeathmatchAPI/obj/Release/net8.0
+/source/DeathmatchAPI/obj
+/.vs
+/source/Deathmatch/.vs/Deathmatch
+/source/Deathmatch/bin
+/source/Deathmatch/obj
